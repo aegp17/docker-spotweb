@@ -9,7 +9,7 @@ services:
   mysql:
     image: mysql:latest
     environment:
-      MYSQL_ROOT_PASSWORD: 123456
-      MYSQL_USER: aegp17
-      MYSQL_PASSWORD: 123456
-      MYSQL_DATABASE: 123456
+      MYSQL_ROOT_PASSWORD: spotweb
+      MYSQL_USER: spotweb
+      MYSQL_PASSWORD: spotweb
+      MYSQL_DATABASE: spotweb
